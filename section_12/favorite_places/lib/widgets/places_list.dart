@@ -1,5 +1,3 @@
-import 'dart:io';
-
 import 'package:favorite_places/model/place.dart';
 import 'package:favorite_places/screens/place_detail.dart';
 import 'package:flutter/material.dart';
